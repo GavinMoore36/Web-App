@@ -7,7 +7,7 @@ const NavGuide = (props) => {
 
     return (
       <Navbar bg="dark" variant="dark">
-        <Navbar.Brand href="home">Lori's Containment</Navbar.Brand>
+        <Navbar.Brand href="home">Lori's Mystery-Box</Navbar.Brand>
         <Nav className="mr-auto">
           <Nav.Link href="home">Home</Nav.Link>
           <Nav.Link href="info">Info</Nav.Link>

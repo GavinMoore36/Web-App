@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
       <img className='Home-image' alt="Box-Home" src='https://i.etsystatic.com/17607550/r/il/0dbd11/1917628920/il_1588xN.1917628920_4a9m.jpg'/>
         <p>
-          Welcome to Lori's Containment
+          Welcome to Lori's Mystery-Box
         </p>
       </header>
     </div>
