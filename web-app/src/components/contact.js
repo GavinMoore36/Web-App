@@ -10,7 +10,7 @@ class ContactInfo extends Component {
     return (
       <div className='Home-image'>
         <header className="App-header">
-          <img className='Home-Image' alt="Contact-Image" src=''/>
+          <img className='Box-Image' alt="Contact-Image" src=''/>
           <h1>Lori's Cutoms</h1>
           <p>We hope to hear from you soon</p>
         </header>
